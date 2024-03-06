@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\mks\projectsXILINX\SUKHARNYK_LAB_1\schemelab.ncd
+OUTFILE=C:\mks\projectsXILINX\SUKHARNYK_LAB_1\schemelab.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s50a-5tq144
+WORKINGDIR=C:\mks\projectsXILINX\SUKHARNYK_LAB_1
+LICENSE=WebPack
+USER_INFO=211628586_0_0_017
